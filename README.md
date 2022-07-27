@@ -1,5 +1,7 @@
 # github-cloning-practice
 
-🎉🎉🎉Success!!!🎉🎉🎉  
+🎉🎉🎉Success!!!🎉🎉🎉
 
 If you are reading this in VSCode, you have successfully cloned this repository!
+
+I made it.
