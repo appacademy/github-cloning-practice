@@ -1,0 +1,51 @@
+//comments
+/*      environment
+prompt  - eileen@DESKTOP-0OIVTL0:~$
+where
+~$      - Bash (windows)
+~%      - Z shell (macOS)
+*/
+
+/*      terminal - ubuntu check location
+home/eileen (is my home directory)
+pwd     - print working directory (present working directory)
+cd/ cd~ - go to home directory
+        - 'cd fileName' opens file directory
+        - 'cd ../' goes up one directory
+ls      - list files/directories in current directory
+clear   - clear content of shell
+echo "$SHELL"
+*/
+
+/*      terminal - ubuntu commands
+mkdir   - make directory
+        - '~/newDirectory' for shortform of home/eileen/newDirectory
+rmdir   - remove directory (if they are empty)
+mv      - move files and/or directory
+        - renaming == moving files from one name to another
+cp      - copy files and/or directory
+        - eg mv my-notes.txt ../notes instead of mv my-notes.txt ~/notes/
+rm      - remove files and/or directory
+        - 'rm -i' gives a command prompt prior to removing file
+        - 'rm -r' remove non-empty directory
+code    - 'code file.txt' opens .txt file
+
+"*"     - wildcard, which matches zero or more characters
+"?"     - wildcard, but it matches exactly one character
+
+dont use spaces or begin with dash (- signify options)
+stick with letters, numbers, period, dash, underscore
+surround name in quotes ("") for file name with special characters/ spaces
+*/
+
+/*
+Plain text files - eg HTML (readable by human and machine)
+Binary files     - eg ZIP file (readable by program and not human)
+*/
+
+QUESTIONS:
+//getting to know your computer //working with files and directories
+!! directory shortform or need to type out all? Y 'can TAB to finish the folder'
+!! 'cp' works only for files and not directory? Y 'cp -r is to duplicate the folder structucre'
+!! can i exit my folder by one subdirectory? Y 'cd ../'
+
