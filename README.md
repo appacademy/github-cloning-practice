@@ -1,4 +1,4 @@
-# github-cloning-practice
+# github-cloning-practices
 
 🎉🎉🎉Success!!!🎉🎉🎉  
 
